@@ -1,0 +1,22 @@
+{
+  "must_condition1": {
+    "file_name": "must_condition1",
+    "class_name": "MustCondition1",
+    "arg_names": [],
+    "arg_dict": {}
+  },
+  "must_condition2": {
+    "file_name": "must_condition2",
+    "class_name": "MustCondition2",
+    "arg_names": ["max_hour"],
+    "arg_dict": {
+      "max_hour": 9
+    }
+  },
+  "must_condition3": {
+      "file_name": "must_condition10",
+      "class_name": "MustCondition10",
+      "arg_names": [],
+      "arg_dict": {}
+  }
+}

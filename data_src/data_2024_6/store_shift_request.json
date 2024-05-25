@@ -1,0 +1,4386 @@
+{
+    "year": 2024,
+    "month": 6,
+    "store_shift_request_dict": {
+        "date-1": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-2": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-3": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-4": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-5": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-6": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-7": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-8": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-9": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-10": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-11": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-12": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-13": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-14": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-15": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-16": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-17": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-18": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-19": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-20": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-21": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-22": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-23": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-24": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-25": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-26": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-27": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-28": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-29": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        },
+        "date-30": {
+            "shift-0": {
+                "start_hour": 7,
+                "end_hour": 8,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-1": {
+                "start_hour": 8,
+                "end_hour": 9,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-2": {
+                "start_hour": 9,
+                "end_hour": 10,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-3": {
+                "start_hour": 10,
+                "end_hour": 11,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-4": {
+                "start_hour": 11,
+                "end_hour": 12,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-5": {
+                "start_hour": 12,
+                "end_hour": 13,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-6": {
+                "start_hour": 13,
+                "end_hour": 14,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-7": {
+                "start_hour": 14,
+                "end_hour": 15,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-8": {
+                "start_hour": 15,
+                "end_hour": 16,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-9": {
+                "start_hour": 16,
+                "end_hour": 17,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-10": {
+                "start_hour": 17,
+                "end_hour": 18,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-11": {
+                "start_hour": 18,
+                "end_hour": 19,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 2,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-12": {
+                "start_hour": 19,
+                "end_hour": 20,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 2
+                }
+            },
+            "shift-13": {
+                "start_hour": 20,
+                "end_hour": 21,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-14": {
+                "start_hour": 21,
+                "end_hour": 22,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            },
+            "shift-15": {
+                "start_hour": 22,
+                "end_hour": 23,
+                "request_dict": {
+                    "接客": 2,
+                    "品出し": 1,
+                    "レジ打ち": 1
+                }
+            }
+        }
+    }
+}

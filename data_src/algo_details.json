@@ -1,0 +1,21 @@
+{
+  "Conditional_SA": {
+    "description": "1日1度のみ, 4時間以上9時間以内, 同じポジションでしかシフトに入れないという条件付きのSA",
+    "iteration_num": 10000
+  },
+  "Conditional_TA": {
+    "description": "1日1度のみ, 4時間以上9時間以内, 同じポジションでしかシフトに入れないという条件付きのSA",
+    "min_hour": 4,
+    "max_hour": 9,
+    "iteration_num": 10000,
+    "tabu_list_size": 100
+  },
+  "GA": {
+    "individual_number": 10000,
+    "generation_number": 2000, 
+    "evolution_type": "darwin",
+    "selection_type": "ranking",
+    "crossing_type": "2point",
+    "mutation_type": "uniform"
+  }
+}

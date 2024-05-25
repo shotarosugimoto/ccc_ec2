@@ -1,0 +1,160 @@
+{
+  "request_condition1": {
+    "name": "シフト数を守る",
+    "description": "できるだけシフトの人数に合わせる。",
+    "file_name": "request_condition1",
+    "class_name": "RequestCondition1",
+    "arg_names": [],
+    "arg_type": {},
+    "add_info": "組み込みで入れてるので消してほしくない"
+  },
+  "request_condition2": {
+    "name": "時給削減",
+    "description": "できるだけ時給を削減する。",
+    "file_name": "request_condition2",
+    "class_name": "RequestCondition2",
+    "arg_names": [],
+    "arg_type": {},
+    "add_info": "組み込みで入れてるので消してほしくない"
+  },
+  "request_condition3": {
+    "name": "スキル考慮",
+    "description": "スキルの合計値が大きくなるようにする。",
+    "file_name": "request_condition3",
+    "class_name": "RequestCondition3",
+    "arg_names": [],
+    "arg_type": {},
+    "add_info": "組み込みで入れてるので消してほしくない"
+  },
+  "request_condition4": {
+    "name": "連続勤務",
+    "description": "<max_date>日以上連続で働かないようにする。",
+    "file_name": "request_condition4",
+    "class_name": "RequestCondition4",
+    "arg_names": ["max_date"],
+    "arg_type": {
+        "max_date": "int"
+    },
+    "add_info": "組み込みで入れてるので消してほしくない"
+  },
+  "request_condition5": {
+    "name": "共演NGルール",
+    "description": "<name_a>と<name_b>は同じシフトに入れない。",
+    "file_name": "request_condition5",
+    "class_name": "RequestCondition5",
+    "arg_names": ["name_a", "name_b"],
+    "arg_type": {
+        "name_a": "str",
+        "name_b": "str"
+    },
+    "add_info": "nameは<田中翔太>みたいな感じでスペースなしのフルネームで登録してほしい。"
+  },
+
+  "request_condition6": {
+    "name": "共演させたい",
+    "description": "<name_a>と<name_b>は同じシフトに入れたい",
+    "file_name": "request_condition6",
+    "class_name": "RequestCondition6",
+    "arg_names": ["name_a", "name_b"],
+    "arg_type": {
+        "name_a": "str",
+        "name_b": "str"
+    },
+    "add_info": "nameは<田中翔太>みたいな感じでスペースなしのフルネームで登録してほしい。"
+  },
+  "request_condition7": {
+    "name": "曜日人指定",
+    "description": "<day_index>曜日には<name>さんをできるだけ入れたい。",
+    "file_name": "request_condition7",
+    "class_name": "RequestCondition7",
+    "arg_names": ["day_index", "name"],
+    "arg_type": {
+        "day_index": "int",
+        "name": "str"
+    },
+    "add_info": "day_indexは月曜日が0, 火曜日が1..., 日曜日が6, というような規則の整数で送ってほしい。nameは<田中翔太>みたいな感じでスペースなしのフルネームで登録してほしい"
+  },
+
+
+  "request_condition8": {
+    "name": "時間人指定",
+    "description": "この<time>に<name>さんをできるだけ入れたい。",
+    "file_name": "request_condition8",
+    "class_name": "RequestCondition8",
+    "arg_names": ["time", "name"],
+    "arg_type": {
+        "time": "int",
+        "name": "str"
+    },
+    "add_info": "timeはシフトが始まる時間(7時から8時のシフトなら7を送る)。nameは<田中翔太>みたいな感じでスペースなしのフルネームで登録してほしい"
+  },
+    "request_condition9": {
+    "name": "日付人指定",
+    "description": "<date>に<name>さんをできるだけ入れたい。",
+    "file_name": "request_condition9",
+    "class_name": "RequestCondition9",
+    "arg_names": ["date", "name"],
+    "arg_type": {
+        "date": "int",
+        "name": "str"
+    },
+    "add_info": "dateはその日の数字を整数で(13日なら13）nameは<田中翔太>みたいな感じでスペースなしのフルネームで登録してほしい"
+  },
+    "request_condition10": {
+    "name": "週の時間の上限下限",
+    "description": "1週間に<min_hour>時間以上<max_hour>時間以下働かせたい。",
+    "file_name": "request_condition10",
+    "class_name": "RequestCondition10",
+    "arg_names": ["min_hour", "max_hour"],
+    "arg_type": {
+        "min_hour": "int",
+        "max_hour": "int"
+    },
+    "add_info": "特になし"
+  },
+    "request_condition11": {
+    "name": "ある人の週の時間の上限下限",
+    "description": "<name>さんに1週間に<min_hour>時間以上<max_hour>時間以下働かせたい。",
+    "file_name": "request_condition11",
+    "class_name": "RequestCondition11",
+    "arg_names": ["name", "min_hour", "max_hour"],
+    "arg_type": {
+        "name": "str",
+        "min_hour": "int",
+        "max_hour": "int"
+    },
+    "add_info": "nameは<田中翔太>みたいな感じでスペースなしのフルネームで登録してほしい"
+  },
+    "request_condition12": {
+    "name": "週の勤務日の上限下限",
+    "description": "1週間に<min_date_num>日以上<max_date_num>日以下働かせたい。",
+    "file_name": "request_condition12",
+    "class_name": "RequestCondition12",
+    "arg_names": ["min_date_num", "max_date_num"],
+    "arg_type": {
+        "min_date_num": "int",
+        "max_date_num": "int"
+    },
+    "add_info": "特になし"
+  },
+    "request_condition13": {
+    "name": "シフト割合均等化",
+    "description": "シフト希望数とシフトが入った数の割合を皆で均等にしたい。",
+    "file_name": "request_condition13",
+    "class_name": "RequestCondition13",
+    "arg_names": [],
+    "arg_type": {},
+    "add_info": "特に無し"
+  },
+  "request_condition14": {
+    "name": "最低シフト人数",
+    "description": "1シフトに<min_employee_num>人以上入れたい。",
+    "file_name": "request_condition14",
+    "class_name": "RequestCondition14",
+    "arg_names": ["min_employee_num>"],
+    "arg_type": {
+        "min_employee_num": "int"
+    },
+    "add_info": "特に無し"
+  }
+}

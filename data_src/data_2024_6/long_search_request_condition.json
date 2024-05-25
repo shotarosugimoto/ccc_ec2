@@ -1,0 +1,32 @@
+{
+    "request_condition1": {
+      "file_name": "request_condition1",
+      "class_name": "RequestCondition1",
+      "level": 3,
+      "arg_names": [],
+      "arg_dict": {}
+    },
+    "request_condition2": {
+      "file_name": "request_condition2",
+      "class_name": "RequestCondition2",
+      "level": 3,
+      "arg_names": [],
+      "arg_dict": {}
+    },
+    "request_condition3": {
+      "file_name": "request_condition3",
+      "class_name": "RequestCondition3",
+      "level": 3,
+      "arg_names": [],
+      "arg_dict": {}
+    },
+    "request_condition4": {
+      "file_name": "request_condition4",
+      "class_name": "RequestCondition4",
+      "level": 4,
+      "arg_names": ["max_date"],
+      "arg_dict": {
+        "max_date": 6
+      }
+    }
+}

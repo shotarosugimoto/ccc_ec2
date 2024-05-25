@@ -1,0 +1,113 @@
+{
+  "must_condition1": {
+    "name": "シフト連続ルール",
+    "description": "シフトに入る日は連続した時間で入る必要がある。",
+    "file_name": "must_condition1",
+    "class_name": "MustCondition1",
+    "arg_names": [],
+    "arg_type": {},
+    "add_info": "組み込みで入れてるので消してほしくない"
+  },
+  "must_condition2": {
+    "name": "1日仕事合計時間上限",
+    "description": "全員１日<max_hour>時間以上働いてはいけない",
+    "file_name": "must_condition2",
+    "class_name": "MustCondition2",
+    "arg_names": ["max_hour"],
+    "arg_types": {
+      "max_hour": "int"
+    },
+    "add_info": "組み込みで入れてるので消してほしくない。組み込みの数値は9。数値をいじると解がなくなるかも"
+  },
+  "must_condition3": {
+    "name": "1日仕事合計時間下限",
+    "description": "全員１日<min_hour>時間以上働かなければならない",
+    "file_name": "must_condition3",
+    "class_name": "MustCondition3",
+    "arg_names": ["min_hour"],
+    "arg_types": {
+      "min_hour": "int"
+    },
+    "add_info": "組み込みで入れてるので消してほしくない。組み込みの数値は4。数値をいじると解がなくなるかも"
+  },
+  "must_condition4": {
+      "name": "1週間仕事合計時間上限",
+      "description": "全員1週間<max_hour>時間以上働いてはいけない",
+      "file_name": "must_condition4",
+      "class_name": "MustCondition4",
+      "arg_names": ["max_hour"],
+      "arg_types": {
+        "max_hour": "int"
+      },
+      "add_info": "数値をいじると解がなくなるかも"
+  },
+  "must_condition5": {
+      "name": "1週間仕事合計時間下限",
+      "description": "全員1週間<min_hour>時間以上働かなければならない",
+      "file_name": "must_condition5",
+      "class_name": "MustCondition5",
+      "arg_names": ["min_hour"],
+      "arg_types": {
+        "min_hour": "int"
+      },
+      "add_info": "数値をいじると解がなくなるかも"
+  },
+  "must_condition6": {
+    "name": "1シフト最低人数",
+    "description": "1シフトに<min_employee_num>以上入る必要がある",
+    "file_name": "must_condition6",
+    "class_name": "MustCondition6",
+    "arg_names": [
+      "min_employee_num"
+    ],
+    "arg_types": {
+      "min_employee_num": "int"
+    },
+    "add_info": "数値をいじると解がなくなるかも"
+  },
+  "must_condition7": {
+      "name": "週仕事日数制限",
+      "description": "全員1週間に<min_date_num>日以上<max_date_num>日以下働かなければならない",
+      "file_name": "must_condition7",
+      "class_name": "MustCondition7",
+      "arg_names": ["min_date_num", "max_date_num"],
+      "arg_types": {
+        "min_date_num": "int",
+        "max_date_num": "int"
+      },
+      "add_info": "数値をいじると解がなくなるかも"
+  },
+  "must_condition8": {
+      "name": "個人の週間仕事時間制限",
+      "description": "<name>は1週間に<min_hour>時間以上<max_hour>時間以下で働かなければならない",
+      "file_name": "must_condition8",
+      "class_name": "MustCondition8",
+      "arg_names": ["name", "min_hour", "max_hour"],
+      "arg_types": {
+        "name": "str",
+        "min_hour": "int",
+        "max_hour": "int"
+      },
+      "add_info": "数値をいじると解がなくなるかも。nameは<田中翔太>みたいな感じでスペースなしのフルネームで登録してほしい"
+  },
+  "must_condition9": {
+      "name": "土日のどちらか働く",
+      "description": "<name>は土日のどちらかのみ働かなければならない",
+      "file_name": "must_condition9",
+      "class_name": "MustCondition9",
+      "arg_names": ["name"],
+      "arg_types": {
+        "name": "str"
+      },
+      "add_info": "数値をいじると解がなくなるかも。nameは<田中翔太>みたいな感じでスペースなしのフルネームで登録してほしい"
+  },
+  "must_condition10": {
+      "name": "シフト間は同じ仕事",
+      "description": "一回のシフトにおいてpositionが同じでなければならない",
+      "file_name": "must_condition10",
+      "class_name": "MustCondition10",
+      "arg_names": [],
+      "arg_types": {},
+      "add_info": "組み込みで入れてるので消してほしくない."
+  }
+}

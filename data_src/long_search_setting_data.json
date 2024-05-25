@@ -1,0 +1,6 @@
+{
+  "run_type": "cpu",
+  "algo_name": "Conditional_TA",
+  "data_file_place": "local",
+  "condition_file_place": "local"
+}
